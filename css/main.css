@@ -1,0 +1,31 @@
+.carousel-inner img{
+	height: 600px;
+	width: 100%;
+}
+#gallary{
+	margin-top: 56px;
+}
+#about{
+	padding-top: 70px;
+	min-height: 520px;
+	background: #5fa177;
+}
+#education{
+	text-align: justify;
+	padding: 10px;
+	background: #c9c9c9;
+}
+.bg-nav{
+	background: #003300;
+}
+#contact{
+	text-align: justify;
+	padding: 10px;
+	background: #2c9c55;
+}
+.contact i{
+
+	float: left;
+	font-size: 30px;
+	padding-right: 10px;
+}
